@@ -1,6 +1,6 @@
 module github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/dprotaso/go-yit v0.0.0-20220510233725-9ba8df137936 // indirect
